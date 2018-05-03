@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">YBU-FoodList-H.W2</string>
+
+    <!-- Tab Items -->
+    <string-array name="tab_items">
+        <item>@string/tab1Title</item>
+        <item>@string/tab2Title</item>
+        <item>@string/tab3Title</item>
+    </string-array>
+
+    <string name="tab1Title">Food List</string>
+    <string name="tab2Title">Announcements</string>
+    <string name="tab3Title">News</string>
+</resources>
